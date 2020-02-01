@@ -21,7 +21,7 @@ Development environment(Stable versions) :
 
 
 ------
-g
+
 Contributor
 
 -조승현(chameleon001)

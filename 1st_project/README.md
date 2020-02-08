@@ -24,7 +24,7 @@ start the 1st Project (2020/02/01)
 
 - design
 
-![컨셉1](D:\github\We_will_be_Web_Master\1st_project\컨셉1.png)
+![컨셉1](.\컨셉1.png)
 
 
 

@@ -22,7 +22,7 @@ goal : Full stack Development
    - 각자 원하는 작업을 수행.                    (In Progress)
    - 주석 또는 카톡으로 작업 내용 공유    (Done)
 
-![칸반 보드 이미지 검색결과](\board_image) 
+![칸반 보드 이미지 검색결과](https://github.com/chameleon001/We_will_be_Web_Master/board_image) 
 
 - 칸반 방식의 장점
   - 하고 싶은 기능 또는 원하는 부분을 작업 가능.
